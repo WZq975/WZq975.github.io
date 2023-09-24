@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-subtitle: Email: ziqiang [dot] wang [at] mail [dot] concordia [dot] ca
+subtitle: Email: ziqiang (dot) wang (at) mail (dot) concordia (dot) ca
 
 profile:
   align: right
