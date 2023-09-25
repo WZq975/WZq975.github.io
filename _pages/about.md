@@ -3,11 +3,11 @@ layout: about
 title: about
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-subtitle: ziqiang (dot) wang (at) mail (dot) concordia (dot) ca
+subtitle: Email -> ziqiang (dot) wang (at) mail (dot) concordia (dot) ca
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: IMG_7736.HEIC
   image_circular: false # crops the image to make it circular
   address: >
     <p>Montreal, Quebec</p>
