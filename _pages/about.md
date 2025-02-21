@@ -7,7 +7,7 @@ subtitle: Email -> ziqiang (dot) wang (at) mail (dot) concordia (dot) ca
 
 profile:
   align: right
-  image: IMG_7736.jpg
+  image: 
   image_circular: false # crops the image to make it circular
   address: >
    
